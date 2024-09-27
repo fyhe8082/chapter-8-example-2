@@ -23,7 +23,7 @@ app.get("/live", (req, res) => {
 });
 
 //
-// Registers a HTTP GET route for video streaming.
+// Registers a HTTP GET route for video streaming.dfsad
 //
 app.get("/video", async (req, res) => { // Route for streaming video.
     
