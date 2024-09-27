@@ -7,3 +7,5 @@ In chapter 8 we create a continuous delivery pipeline for microservices and infr
 This example is a Node.js project with a workflow that implements a continous integration pipeline that runs automated tests against this project.
 
 [Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
+
+aa
